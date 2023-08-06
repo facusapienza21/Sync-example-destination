@@ -1,1 +1,3 @@
-# Sync-example-destination
+# Sync-example-origin
+
+I created a secret token... let's see what happens...
